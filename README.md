@@ -33,8 +33,7 @@ Prizes:
 
 ## Additional Prizes information:
 
-##
- As our Gold Sponsor,Polygon offers:-
+## As our Gold Sponsor, Polygon offers:-
 
 **Devfolio🤝Polygon**
 
